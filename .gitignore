@@ -1,7 +1,25 @@
-venv/
+
+
 __pycache__/
+venv/
 *.pyc
 .env
+
+.DS_Store
+._*
+
 .dropbox
 .dropbox.attr
+.dropbox.cache
+
+
+.ipynb_checkpoints
+*.ipynb
+
+Figures/*
+!Figures/.gitkeep
+oldAndScratch/
+data/*
+!data/.gitkeep
+!high_school_proximity/
 
