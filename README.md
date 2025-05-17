@@ -4,9 +4,9 @@ by Yue Wan and Robert Rosenbaum
 
 Each .py file contains a script to generate the associated figure. Figures are saved into the Figure folder. In some cases, data is saved in the data folder.
 
-All software requirements are contained in requirements.txt
+The code relies on the python packages: numpy, torch, matplotlib, seaborn, and time
 
-Run pip install -r requirements.txt to install required packages.
+Detailed python package requirements are contained in requirements.txt
 
 To generate a figure, just run the associated .py file.
 
