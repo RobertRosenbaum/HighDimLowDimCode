@@ -14,7 +14,6 @@ venv/
 
 
 .ipynb_checkpoints
-*.ipynb
 
 Figures/*
 !Figures/.gitkeep
@@ -22,4 +21,7 @@ oldAndScratch/
 data/*
 !data/.gitkeep
 !high_school_proximity/
+
+ScratchFigs/*
+!ScratchFigs/.gitkeep
 

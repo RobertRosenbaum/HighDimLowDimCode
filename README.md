@@ -2,9 +2,9 @@ Code to reproduce all figures in the paper:
 "High-dimensional dynamics in low-dimensional networks"
 by Yue Wan and Robert Rosenbaum
 
-Each .py file contains a script to generate the associated figure. Figures are saved into the Figure folder. In some cases, data is saved in the data folder.
+Each .ipynb file contains a notebook that generates the associated figure. Figures are saved into the Figure folder. In some cases, data is saved in the data folder.
 
-The code relies on the python packages: numpy, torch, matplotlib, seaborn, and time
+The code relies on the python packages: numpy, torch, matplotlib, seaborn, and time.
 
 Detailed python package requirements are contained in requirements.txt
 
